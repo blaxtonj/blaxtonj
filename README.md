@@ -13,7 +13,7 @@ Before diving into code, I was a **Senior Underwriter**, where I managed complex
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Frontend** | React, Next.js (SSR/ISR), TypeScript, JavaScript (ES6+), HTML5, CSS3 |
-| **Styling & UI** | Tailwind CSS, MotionOne, Responsive & Mobile-First Design |
+| **Styling & UI** | Tailwind CSS, Framer Motion, Responsive & Mobile-First Design |
 | **Backend & Data** | Node.js, SQL, NoSQL, RESTful APIs, Database Design |
 | **Deployment & Ops** | Git/GitHub, Vercel, CI/CD, VS Code |
 | **Analytics & Growth** | PostHog, Google Analytics (GA4), SEO Optimization |
@@ -34,6 +34,3 @@ Before diving into code, I was a **Senior Underwriter**, where I managed complex
 - 🌐 [Portfolio](https://www.webx.ink/)
 - 📧 [Your Email Address](blaxton@webx.ink)
   
----
-
-*“Precision in underwriting, performance in code.”*
