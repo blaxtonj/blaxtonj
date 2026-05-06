@@ -32,5 +32,5 @@ Before diving into code, I was a **Senior Underwriter**, where I managed complex
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/joshua-blaxton/)
 - 🌐 [Portfolio](https://www.webx.ink/)
-- 📧 [Your Email Address](blaxton@webx.ink)
+- 📧 [Email](blaxton@webx.ink)
   
